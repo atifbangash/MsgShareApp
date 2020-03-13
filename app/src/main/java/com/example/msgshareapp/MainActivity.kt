@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this,"Button was clicked", Toast.LENGTH_SHORT).show()
             Toast.makeText(this, "Clicked for sure",Toast.LENGTH_LONG).show()
             Toast.makeText(this, "Yup",Toast.LENGTH_LONG).show()
-            Toast.makeText(this, "Freaky",Toast.LENGTH_LONG).show()
         }
     }
 }
